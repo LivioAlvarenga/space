@@ -1,70 +1,142 @@
-# Getting Started with Create React App
+<h1 align="center"> 
+	<img alt="Alura Space" title="#AluraSpace" src="https://github.com/LivioAlvarenga/space/blob/master/public/images/logo.png?raw=true" />
+</h1>
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-vitrine-dev">Vitrine Dev</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> •
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+&nbsp;
 
-## Available Scripts
+![Space App](https://github.com/LivioAlvarenga/space/blob/master/public/images/banner.png?raw=true#vitrinedev)
 
-In the project directory, you can run:
+&nbsp;
 
-### `npm start`
+## 💻 Sobre o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🚀 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app). E faz parte de um treinamento da Alura React com JavaScript: lidando com arquivos estáticos.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Alura Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr. Se trata de uma galeria de imagens criada com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
 
-### `npm test`
+Optei por usar o Tailwindcss para criar os estilos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+&nbsp;
 
-### `npm run build`
+<p align="center">
+  <a href="#license"><img src="https://img.shields.io/github/license/LivioAlvarenga/space?color=ff0000"></a>
+  <a href="https://github.com/LivioAlvarenga/space/issues"><img src="https://img.shields.io/github/issues/LivioAlvarenga/space" alt="issue site alurabooks" /></a>
+  <a href="https://github.com/LivioAlvarenga/space"><img src="https://img.shields.io/github/languages/count/LivioAlvarenga/space" alt="total amount of programming languages used in the project" /></a>
+  <a href="https://github.com/LivioAlvarenga/space"><img src="https://img.shields.io/github/languages/top/LivioAlvarenga/space" alt="most used language in the projects" /></a>
+  <a href="https://github.com/LivioAlvarenga/space"><img src="https://img.shields.io/github/repo-size/LivioAlvarenga/space" alt="repository size" /></a>
+<p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+&nbsp;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📺 Vitrine Dev
 
-### `npm run eject`
+| :placard: Vitrine.Dev |                                                                 |
+| --------------------- | --------------------------------------------------------------- |
+| :sparkles: Nome       | **Space projeto React lidando com arquivos estáticos**          |
+| :label: Tecnologias   | nodejs, javascript, html5, css3, reactjs, prettier, tailwindcss |
+| :rocket: URL          | https://space-livio-alvarenga.vercel.app/                       |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+&nbsp;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠 Tecnologias
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+As seguintes ferramentas foram usadas na construção do projeto
 
-## Learn More
+&nbsp;
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="center">
+  <a href= "https://html5.org/"><img alt="html 5 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=E34F26&logo=HTML5&label=Markup Language&message=HTML5&color=E34F26"></a>
+  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Style&message=CSS3&color=1572B6"></a>
+  <a href= "https://tailwindcss.com/"><img alt="Tailwind CSS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=06b6d4&logo=Tailwind CSS&label=Style&message=Tailwind CSS&color=06b6d4"></a>
+  <a href= "https://www.javascript.com/"><img alt="JavaScript badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7DF1E&logo=JavaScript&label=Language&message=JavaScript&color=F7DF1E"></a>
+  <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=339933&logo=Node.js&label=Runtime Environment&message=Node.js&color=3139933"></a>
+  <a href= "https://reactjs.org/"><img alt="React badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=61dafb&logo=React&label=Framework&message=React&color=61dafb"></a>
+  <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=007ACC&logo=Visual Studio Code&label=IDE&message=Visual Studio Code&color=007ACC"></a>
+  <a href= "https://www.figma.com/file/ooXqESlYLpMYzVdDakYqY6/Projeto-Intro-ao-React-(Copy)?node-id=134%3A128&t=h5Sb4cekDbSTfEnc-0"><img alt="link projeto no figma" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F24E1E&logo=Figma&label=Designer&message=Figma&color=F24E1E"></a>
+  <a href= "https://github.com/prettier/prettier"><img alt="code formatter prettier" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7B93E&logo=Prettier&label=Code Formatter&message=Prettier&color=F7B93E"></a>
+</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+&nbsp;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ⚙️ Funcionalidades
 
-### Analyzing the Bundle Size
+- [x] Exibe uma galeria de imagens do universo;
+- [x] Possui animações de transform quando o mouse está sobre a imagem;
+- [x] Possibilidade de exibir as imagens por tags;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+&nbsp;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🎨 Layout
 
-### Advanced Configuration
+O layout da aplicação está disponível no Figma:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<a href="https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos?node-id=89%3A4">
+  <img alt="Feito por Isadora Cardoso - Designer Multidisciplinar | Front End" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+&nbsp;
 
-### `npm run build` fails to minify
+#### 🧭 Rodando a aplicação web (Modo desenvolvimento)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+# Clone este repositório
+$ git clone https://github.com/livioalvarenga/space.git
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd space
+# Instale as dependências
+$ npm install
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+---
+
+&nbsp;
+
+## 🦸 Autor
+
+Olá, eu sou Livio Alvarenga, Engenheiro de Produção | Dev Back-end e Front-end. Sou aficcionado por tecnologia, programação, processos e planejamento. Uni todas essas paixões em uma só profissão. Dúvidas, sugestões e críticas são super bem vindas. Seguem meus contatos.
+
+- [www.livioalvarenga.com](https://livioalvarenga.com)
+- contato@livioalvarenga.com
+
+&nbsp;
+
+<p align="center">
+  <a href= "https://www.livioalvarenga.com/"><img alt="portifólio livio alvarenga" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3109a24e71f07dbad193ae0ddbc43b69b39c7adf/files/badgePortifolioLivio.svg"></a>
+  <a href= "https://www.linkedin.com/in/livio-alvarenga-planejamento-mrp-engenheiro-produ%C3%A7%C3%A3o-materiais-vba-powerbi/"><img alt="perfil linkedin livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=0A66C2&logo=LinkedIn&label=LinkedIn&message=Livio Alvarenga&color=0A66C2"></a>
+  <a href= "https://twitter.com/AlvarengaLivio"><img alt="perfil twitter livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1DA1F2&logo=Twitter&label=Twitter&message=@AlvarengaLivio&color=1DA1F2"></a>
+  <a href= "https://www.instagram.com/livio_alvarenga/"><img alt="perfil instagram livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=E4405F&logo=Instagram&label=Instagram&message=@livio_alvarenga&color=E4405F"></a>
+  <a href= "https://www.facebook.com/profile.php?id=100083957091312"><img alt="perfil facebook livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1877F2&logo=Facebook&label=Facebook&message=Livio Alvarenga&color=1877F2"></a>
+  <a href= "https://www.youtube.com/channel/UCrZgsh8IWyyNrRZ7cjrPbcg"><img alt="perfil youtube livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=FF0000&logo=YouTube&label=Youtube&message=Livio Alvarenga&color=FF0000"></a>
+</p>
+
+---
+
+&nbsp;
+
+## 📝 Licença
+
+Este projeto é [MIT licensed](./LICENSE).
+
+##### _#CompartilheConhecimento_
