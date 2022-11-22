@@ -16,6 +16,7 @@
 ![Space App](https://github.com/LivioAlvarenga/space/blob/master/public/images/banner.png?raw=true#vitrinedev)
 
 &nbsp;
+<a id="-sobre-o-projeto"></a>
 
 ## 💻 Sobre o projeto
 
@@ -38,6 +39,7 @@ Optei por usar o Tailwindcss para criar os estilos.
 ---
 
 &nbsp;
+<a id="-vitrine-dev"></a>
 
 ## 📺 Vitrine Dev
 
@@ -50,6 +52,7 @@ Optei por usar o Tailwindcss para criar os estilos.
 ---
 
 &nbsp;
+<a id="-tecnologias"></a>
 
 ## 🛠 Tecnologias
 
@@ -65,13 +68,13 @@ As seguintes ferramentas foram usadas na construção do projeto
   <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=339933&logo=Node.js&label=Runtime Environment&message=Node.js&color=3139933"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=61dafb&logo=React&label=Framework&message=React&color=61dafb"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=007ACC&logo=Visual Studio Code&label=IDE&message=Visual Studio Code&color=007ACC"></a>
-  <a href= "https://www.figma.com/file/orFnTds1FRP3t3gj6rJWDi/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos-(Copy)?t=ddIsjTkxPcBtxkci-0"><img alt="link projeto no figma" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F24E1E&logo=Figma&label=Designer&message=Figma&color=F24E1E"></a>
   <a href= "https://github.com/prettier/prettier"><img alt="code formatter prettier" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7B93E&logo=Prettier&label=Code Formatter&message=Prettier&color=F7B93E"></a>
 </p>
 
 ---
 
 &nbsp;
+<a id="-funcionalidades"></a>
 
 ## ⚙️ Funcionalidades
 
@@ -82,6 +85,7 @@ As seguintes ferramentas foram usadas na construção do projeto
 ---
 
 &nbsp;
+<a id="-layout"></a>
 
 ## 🎨 Layout
 
@@ -110,6 +114,7 @@ $ npm run start
 ---
 
 &nbsp;
+<a id="-autor"></a>
 
 ## 🦸 Autor
 
@@ -132,6 +137,7 @@ Olá, eu sou Livio Alvarenga, Engenheiro de Produção | Dev Back-end e Front-en
 ---
 
 &nbsp;
+<a id="-licença"></a>
 
 ## 📝 Licença
 
