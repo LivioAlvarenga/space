@@ -1,7 +1,11 @@
 import Header from "../components/Header";
+import Menu from "../components/Menu";
 
-function Home() {
-  return <Header />;
+export default function Home() {
+  return (
+    <>
+      <Header />
+      <Menu />
+    </>
+  );
 }
-
-export default Home;

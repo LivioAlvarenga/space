@@ -1,12 +1,12 @@
 import logo from "../assets/images/logo.png";
 
-function Header() {
+export default function Header() {
   return (
     <header className="my-6 mx-6 flex items-center justify-between">
       <img src={logo} alt="Logo do Alura Space" />
-      <div className="borderInput relative flex w-1/3 items-center justify-between py-2 px-3">
+      <div className="borderInput relative flex w-1/3 items-center justify-between py-3 px-4">
         <input
-          className="h-8 w-[80%] border-none bg-transparent text-base text-space-100 outline-none placeholder:text-base "
+          className="h-8 w-[80%] border-none bg-transparent text-xl text-space-100 outline-none placeholder:text-xl "
           type="text"
           placeholder="O que você procura?"
         />
@@ -29,5 +29,3 @@ function Header() {
     </header>
   );
 }
-
-export default Header;

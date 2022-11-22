@@ -3,6 +3,10 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      fontFamily: {
+        gandhiSans: ["Gandhi Sans", "sans-serif"],
+        gandhiSerif: ["Gandhi Serif", "serif"],
+      },
       colors: {
         space: {
           100: "#D9D9D9",
