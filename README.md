@@ -8,7 +8,7 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> •
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-licença">Licença</a>
 </p>
 
 &nbsp;
@@ -65,7 +65,7 @@ As seguintes ferramentas foram usadas na construção do projeto
   <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=339933&logo=Node.js&label=Runtime Environment&message=Node.js&color=3139933"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=61dafb&logo=React&label=Framework&message=React&color=61dafb"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=007ACC&logo=Visual Studio Code&label=IDE&message=Visual Studio Code&color=007ACC"></a>
-  <a href= "https://www.figma.com/file/ooXqESlYLpMYzVdDakYqY6/Projeto-Intro-ao-React-(Copy)?node-id=134%3A128&t=h5Sb4cekDbSTfEnc-0"><img alt="link projeto no figma" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F24E1E&logo=Figma&label=Designer&message=Figma&color=F24E1E"></a>
+  <a href= "https://www.figma.com/file/orFnTds1FRP3t3gj6rJWDi/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos-(Copy)?t=ddIsjTkxPcBtxkci-0"><img alt="link projeto no figma" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F24E1E&logo=Figma&label=Designer&message=Figma&color=F24E1E"></a>
   <a href= "https://github.com/prettier/prettier"><img alt="code formatter prettier" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F7B93E&logo=Prettier&label=Code Formatter&message=Prettier&color=F7B93E"></a>
 </p>
 
@@ -87,9 +87,7 @@ As seguintes ferramentas foram usadas na construção do projeto
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos?node-id=89%3A4">
-  <img alt="Feito por Isadora Cardoso - Designer Multidisciplinar | Front End" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
+<a href= "https://www.figma.com/file/orFnTds1FRP3t3gj6rJWDi/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos-(Copy)?t=ddIsjTkxPcBtxkci-0"><img alt="link projeto no figma" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=F24E1E&logo=Figma&label=Designer&message=Figma&color=F24E1E"></a>
 
 ---
 
