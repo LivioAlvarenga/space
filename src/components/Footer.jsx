@@ -98,7 +98,7 @@ export default function Footer() {
       <p className="text-xl text-white">
         Desenvolvido por{" "}
         <a
-          className="font-bold"
+          className="bg-gradient-to-br from-space-300 to-space-400 bg-clip-text text-2xl font-bold text-transparent"
           href="https://www.livioalvarenga.com"
           target="_blank"
           rel="noreferrer"
