@@ -48,6 +48,18 @@ body {
   font-family: "Gandhi Sans";
 }
 
+/* personalizar a barra de scroll de navegadores webkit, obs o Firefox não tem esta opção */
+body::-webkit-scrollbar {
+  width: 3px;
+}
+body::-webkit-scrollbar-track {
+  background: linear-gradient(#041833, #154580);
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #154580;
+  border-radius: 20px;
+}
+
 .borderInput::before {
   content: "";
   position: absolute;
