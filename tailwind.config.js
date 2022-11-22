@@ -5,7 +5,6 @@ module.exports = {
     extend: {
       fontFamily: {
         gandhiSans: ["Gandhi Sans", "sans-serif"],
-        gandhiSerif: ["Gandhi Serif", "serif"],
       },
       colors: {
         space: {
