@@ -5,6 +5,8 @@ export default function Header() {
     inset: "0",
     mask: "linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0)",
     maskComposite: "exclude",
+    webkitMask: "linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0)",
+    webkitMaskComposite: "xor",
   };
   return (
     <header className="my-6 mx-6 flex items-center justify-between">
