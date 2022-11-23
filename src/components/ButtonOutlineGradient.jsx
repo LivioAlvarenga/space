@@ -3,6 +3,8 @@ export default function ButtonOutlineGradient(props) {
     inset: "0",
     mask: "linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0)",
     maskComposite: "exclude",
+    webkitMask: "linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0)",
+    webkitMaskComposite: "xor",
   };
   return (
     <button className="relative mt-6 w-full cursor-pointer rounded-[10px] border-none bg-transparent py-3 px-4 text-white duration-500 ease-in-out hover:bg-gradient-to-r hover:from-space-300 hover:to-space-400">
