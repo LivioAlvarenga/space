@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<img alt="Alura Space" title="#AluraSpace" src="https://github.com/LivioAlvarenga/space/blob/master/public/images/logo.png?raw=true" />
+	<img alt="Alura Space" title="#AluraSpace" src="https://github.com/LivioAlvarenga/space/blob/master/public/assets/images/logo.png?raw=true" />
 </h1>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -13,7 +13,7 @@
 
 &nbsp;
 
-![Space App](https://github.com/LivioAlvarenga/space/blob/master/public/images/banner.png?raw=true#vitrinedev)
+![Space App](https://github.com/LivioAlvarenga/space/blob/master/public/assets/images/banner.png?raw=true#vitrinedev)
 
 &nbsp;
 <a id="-sobre-o-projeto"></a>

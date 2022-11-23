@@ -1,5 +1,6 @@
 import Banner from "../components/Banner";
 import Footer from "../components/Footer";
+import Galeria from "../components/Galeria";
 import Header from "../components/Header";
 import Menu from "../components/Menu";
 
@@ -13,6 +14,9 @@ export default function Home() {
           <Banner />
         </section>
       </main>
+      <div className="flex justify-between items-start ml-[18%] mt-20">
+        <Galeria />
+      </div>
       <Footer />
     </>
   );
