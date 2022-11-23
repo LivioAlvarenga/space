@@ -76,7 +76,7 @@ export default function Footer() {
             </svg>
           </a>
         </li>
-        <li className="group group hover:animate-bounce">
+        <li className="group hover:animate-bounce">
           <a
             href="https://www.youtube.com/channel/UCrZgsh8IWyyNrRZ7cjrPbcg"
             target="_blank"
@@ -93,7 +93,7 @@ export default function Footer() {
             </svg>
           </a>
         </li>
-        <li className="group group hover:animate-bounce">
+        <li className="group hover:animate-bounce">
           <a
             href="https://github.com/LivioAlvarenga"
             target="_blank"
@@ -110,7 +110,7 @@ export default function Footer() {
             </svg>
           </a>
         </li>
-        <li className="group group hover:animate-bounce">
+        <li className="group hover:animate-bounce">
           <a
             href="https://cursos.alura.com.br/vitrinedev/livioalvarenga"
             target="_blank"
@@ -127,7 +127,7 @@ export default function Footer() {
             </svg>
           </a>
         </li>
-        <li className="group group hover:animate-bounce">
+        <li className="group hover:animate-bounce">
           <a
             href="https://livioalvarenga.com/"
             target="_blank"
