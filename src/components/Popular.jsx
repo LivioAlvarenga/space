@@ -1,3 +1,4 @@
+import ButtonOutlineGradient from "components/ButtonOutlineGradient";
 import popular from "data/popular.json";
 
 export default function Popular() {
@@ -17,9 +18,7 @@ export default function Popular() {
           );
         })}
       </ul>
-      <button className="maskEffect relative mt-6 w-full cursor-pointer rounded-[10px] border-none bg-transparent py-3 px-4 text-white duration-500 ease-in-out hover:bg-gradient-to-r hover:from-space-300 hover:to-space-400">
-        Ver mais
-      </button>
+      <ButtonOutlineGradient text={"Ver mais"} />
     </aside>
   );
 }

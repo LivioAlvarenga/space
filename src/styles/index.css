@@ -41,15 +41,3 @@ body::-webkit-scrollbar-thumb {
   background-color: #154580;
   border-radius: 20px;
 }
-
-.maskEffect::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: 10px;
-  z-index: -1;
-  border: 2px solid transparent;
-  background: linear-gradient(to right, #c98cf1, #7b78e5) border-box;
-  mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  mask-composite: exclude;
-}

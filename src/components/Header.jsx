@@ -1,10 +1,19 @@
 import logo from "assets/images/logo.png";
 
 export default function Header() {
+  const maskEffect = {
+    inset: "0",
+    mask: "linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0)",
+    maskComposite: "exclude",
+  };
   return (
     <header className="my-6 mx-6 flex items-center justify-between">
       <img src={logo} alt="Logo do Alura Space" />
-      <div className="maskEffect relative flex w-1/3 items-center justify-between py-3 px-4">
+      <div className="relative flex w-1/3 items-center justify-between py-3 px-4">
+        <span
+          className="absolute -z-[1] rounded-[10px] border-2 border-solid border-transparent bg-gradient-to-r from-space-300 to-space-400"
+          style={maskEffect}
+        ></span>
         <input
           className="h-8 w-[80%] border-none bg-transparent text-xl text-space-100 outline-none placeholder:text-xl "
           type="text"
