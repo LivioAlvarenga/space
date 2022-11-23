@@ -6,7 +6,7 @@ export default function Menu() {
       <ul className="m-0 flex h-72 list-none flex-col justify-around pl-2">
         {itemsMenu.map((item) => {
           return (
-            <li className="group flex items-center justify-start gap-4 ">
+            <li className="group flex items-center justify-start gap-4" key={item.id}>
               <div className="rounded-lg bg-space-600 p-1 duration-500 ease-in-out group-first:bg-gradient-to-r group-first:from-space-300 group-first:to-space-400  group-hover:bg-gradient-to-r group-hover:from-space-300 group-hover:to-space-400">
                 <svg
                   className="cursor-pointer fill-space-200 duration-300 ease-in-out group-first:fill-white  group-hover:fill-white"

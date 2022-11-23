@@ -6,7 +6,7 @@ export default function Footer() {
       <ul className="flex items-center gap-7">
         {icons.map((icon) => {
           return (
-            <li className="group hover:animate-bounce">
+            <li className="group hover:animate-bounce" key={icon.id}>
               <a href={icon.href} target="_blank" rel="noreferrer" title={icon.title}>
                 <svg
                   className="fill-white duration-1000 ease-in-out group-hover:fill-[url(#grad)]"
@@ -16,8 +16,8 @@ export default function Footer() {
                 >
                   <defs>
                     <linearGradient id="grad" x1="0%" x2="100%" y1="0%" y2="0%">
-                      <stop offset="0%" stop-color="#C98CF1" stopOpacity="1" />
-                      <stop offset="100%" stop-color="#7B78E5" stopOpacity="1" />
+                      <stop offset="0%" stopColor="#C98CF1" stopOpacity="1" />
+                      <stop offset="100%" stopColor="#7B78E5" stopOpacity="1" />
                     </linearGradient>
                   </defs>
                   <path d={icon.path} />
