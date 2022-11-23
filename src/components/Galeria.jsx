@@ -1,4 +1,4 @@
-import photos from "../assets/images/photos.json";
+import photos from "../data/photos.json";
 import Tags from "./Tags";
 
 export default function Galeria() {

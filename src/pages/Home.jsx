@@ -14,7 +14,7 @@ export default function Home() {
           <Banner />
         </section>
       </main>
-      <div className="flex justify-between items-start ml-[18%] mt-20">
+      <div className="flex justify-between items-start ml-[18%] my-20">
         <Galeria />
       </div>
       <Footer />
