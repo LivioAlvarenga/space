@@ -1,6 +1,6 @@
-import cards from "../data/photos.json";
-import Cards from "./Cards";
-import Tags from "./Tags";
+import cards from "data/photos.json";
+import Cards from "components/Cards";
+import Tags from "components/Tags";
 
 export default function Galeria() {
   return (

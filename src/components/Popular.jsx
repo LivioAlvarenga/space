@@ -1,4 +1,4 @@
-import popular from "../data/popular.json";
+import popular from "data/popular.json";
 
 export default function Popular() {
   return (

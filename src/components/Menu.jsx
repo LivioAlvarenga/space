@@ -1,4 +1,4 @@
-import itemsMenu from "../data/itensMenu.json";
+import itemsMenu from "data/itensMenu.json";
 
 export default function Menu() {
   return (

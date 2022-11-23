@@ -1,4 +1,4 @@
-import tags from "../data/tags.json";
+import tags from "data/tags.json";
 
 export default function Tags() {
   return (

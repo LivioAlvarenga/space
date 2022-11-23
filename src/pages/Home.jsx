@@ -1,9 +1,9 @@
-import Banner from "../components/Banner";
-import Footer from "../components/Footer";
-import Galeria from "../components/Galeria";
-import Header from "../components/Header";
-import Menu from "../components/Menu";
-import Popular from "../components/Popular";
+import Banner from "components/Banner";
+import Footer from "components/Footer";
+import Galeria from "components/Galeria";
+import Header from "components/Header";
+import Menu from "components/Menu";
+import Popular from "components/Popular";
 
 export default function Home() {
   return (

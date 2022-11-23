@@ -1,4 +1,4 @@
-import banner from "../assets/images/banner.png";
+import banner from "assets/images/banner.png";
 export default function Banner() {
   return (
     <div className="relative w-[88%]">
