@@ -79,8 +79,10 @@ As seguintes ferramentas foram usadas na construção do projeto
 ## ⚙️ Funcionalidades
 
 - [x] Exibe uma galeria de imagens do universo;
-- [x] Possui animações de transform quando o mouse está sobre a imagem;
 - [x] Possibilidade de exibir as imagens por tags;
+- [x] Possui animações de transform quando o mouse está sobre a imagem;
+- [x] Possui animações de transform quando o mouse está o menu;
+- [x] Possui animações de transform quando o mouse está sobre ícones do footer;
 
 ---
 
