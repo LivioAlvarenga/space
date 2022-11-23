@@ -86,7 +86,7 @@ As seguintes ferramentas foram usadas na construção do projeto
 - [x] Possui animações de transform quando o mouse está sobre tags;
 
 <div align="center"> 
-  <img src="https://github.com/LivioAlvarenga/space/blob/master/public/assets/images/space.gif?raw=true" width="400">
+  <img src="https://github.com/LivioAlvarenga/space/blob/master/public/assets/images/space.gif?raw=true" width="500">
 </div>
 
 ---
