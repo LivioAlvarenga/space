@@ -42,7 +42,7 @@ body::-webkit-scrollbar-thumb {
   border-radius: 20px;
 }
 
-.borderInput::before {
+.maskEffect::before {
   content: "";
   position: absolute;
   inset: 0;

@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/assets/images/foto-11.png",
+    "alt": "galáxia",
+    "id": 1
+  },
+  {
+    "path": "/assets/images/foto-12.png",
+    "alt": "lua",
+    "id": 2
+  },
+  {
+    "path": "/assets/images/foto-13.png",
+    "alt": "terra",
+    "id": 3
+  },
+  {
+    "path": "/assets/images/foto-14.png",
+    "alt": "nuvem",
+    "id": 4
+  },
+  {
+    "path": "/assets/images/foto-15.png",
+    "alt": "meteoro",
+    "id": 5
+  }
+]

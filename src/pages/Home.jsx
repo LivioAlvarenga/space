@@ -3,6 +3,7 @@ import Footer from "../components/Footer";
 import Galeria from "../components/Galeria";
 import Header from "../components/Header";
 import Menu from "../components/Menu";
+import Popular from "../components/Popular";
 
 export default function Home() {
   return (
@@ -13,10 +14,11 @@ export default function Home() {
           <Menu />
           <Banner />
         </section>
+        <div className="my-20 ml-[17%] flex items-start justify-between gap-7">
+          <Galeria />
+          <Popular />
+        </div>
       </main>
-      <div className="flex justify-between items-start ml-[18%] my-20">
-        <Galeria />
-      </div>
       <Footer />
     </>
   );
